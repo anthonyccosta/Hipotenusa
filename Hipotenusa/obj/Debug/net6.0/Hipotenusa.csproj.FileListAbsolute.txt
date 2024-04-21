@@ -1,0 +1,14 @@
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\bin\Debug\net6.0\Hipotenusa.exe
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\bin\Debug\net6.0\Hipotenusa.deps.json
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\bin\Debug\net6.0\Hipotenusa.runtimeconfig.json
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\bin\Debug\net6.0\Hipotenusa.dll
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\bin\Debug\net6.0\Hipotenusa.pdb
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\Hipotenusa.AssemblyInfo.cs
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\Hipotenusa.dll
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\refint\Hipotenusa.dll
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\Hipotenusa.pdb
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\Hipotenusa.genruntimeconfig.cache
+C:\Users\lenov\source\repos\Hipotenusa\Hipotenusa\obj\Debug\net6.0\ref\Hipotenusa.dll
